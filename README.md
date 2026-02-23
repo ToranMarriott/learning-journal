@@ -7,7 +7,7 @@ Displays a featured hero post, a responsive feed grid, and will persist user fav
 
 ## 🚀 Demo
 
-(Add live link here if you deploy with GitHub Pages or Netlify)
+TODO: (Add live link here when I deploy)
 
 ---
 
