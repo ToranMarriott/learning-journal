@@ -52,16 +52,6 @@ images/        → Hero and post images
 
 No frameworks — built to strengthen core SWE fundamentals.
 
-## 🎨 Design Notes
-
-- Mobile-first layout  
-- Breakpoints:
-  - Mobile default  
-  - Tablet 768px+  
-  - Desktop 1024px+  
-- Hero background via CSS variable  
-- Feed images cropped using object-fit  
-
 ## 📝 Running Locally
 
 1. Clone the repository  
@@ -69,7 +59,7 @@ No frameworks — built to strengthen core SWE fundamentals.
 
 ## 📌 Purpose
 
-This project documents a transition into software engineering while practising:
+This project documents software engineering learning while practising:
 
 - DOM manipulation  
 - state handling  
