@@ -3,13 +3,9 @@
 A personal learning log web app built with vanilla JavaScript, HTML & CSS.  
 Displays a featured hero post, a responsive feed grid, and will persist user favourites using localStorage.
 
----
-
 ## 🚀 Demo
 
 TODO: (Add live link here when I deploy)
-
----
 
 ## 📂 Project Structure
 
@@ -19,8 +15,6 @@ posts.js       → Static post data
 index.js       → Rendering & interaction logic  
 styles.css     → Styling & responsive layout  
 images/        → Hero and post images
-
----
 
 ## 🧠 Features
 
@@ -50,8 +44,6 @@ images/        → Hero and post images
 - Image fallbacks  
 - Mobile edge-case testing  
 
----
-
 ## 🛠️ Tech Stack
 
 - HTML5  
@@ -59,8 +51,6 @@ images/        → Hero and post images
 - JavaScript  
 
 No frameworks — built to strengthen core SWE fundamentals.
-
----
 
 ## 🎨 Design Notes
 
@@ -72,14 +62,10 @@ No frameworks — built to strengthen core SWE fundamentals.
 - Hero background via CSS variable  
 - Feed images cropped using object-fit  
 
----
-
 ## 📝 Running Locally
 
 1. Clone the repository  
 2. Open index.html in your browser  
-
----
 
 ## 📌 Purpose
 
