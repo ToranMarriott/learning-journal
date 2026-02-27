@@ -38,6 +38,8 @@ images/        → Hero and post images
 
 ### 🧩 TODO
 
+🚧 UNDER CONSTRUCTION 🏗️
+- Blog posts need writing
 - Error handling for empty data  
 - Accessibility improvements  
 - Event delegation cleanup  
